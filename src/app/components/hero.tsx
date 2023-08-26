@@ -30,7 +30,7 @@ export default function Hero() {
             </Text>
           </Heading>
           <Text fontSize={{ base: "md", lg: "lg" }} color="gray.500">
-            Precision in Motion: Expert Wheel Alignment and Tire Change Services for a Smoother Ride
+            Precision in Motion: Expert Wheel Alignment and Tyre Change Services for a Smoother Ride
           </Text>
           <Stack direction={{ base: "column", md: "row" }} spacing={4}>
             <Button
