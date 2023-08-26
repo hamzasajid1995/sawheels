@@ -77,7 +77,7 @@ export default function Features() {
             <Feature
               icon={<Icon as={GiCarWheel} color={"orange.500"} w={5} h={5} />}
               iconBg={useColorModeValue("orange.100", "orange.900")}
-              text={"Tires and Rims"}
+              text={"Tyres and Rims"}
             />
           </Stack>
         </Stack>
